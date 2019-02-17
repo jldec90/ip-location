@@ -2,7 +2,7 @@
     "refresh" : {
         "type" : "scale",
         "default" : 30,
-        "min" : 0,
+        "min" : 30,
         "max" : 3600,
         "step" : 30,
         "description" : "Refresh interval (in seconds)"
