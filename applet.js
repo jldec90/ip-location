@@ -7,7 +7,7 @@ const Mainloop = imports.mainloop;
 const GLib = imports.gi.GLib;
 const Gettext = imports.gettext;
 
-const UUID = "ip-location@jldec";
+const UUID = "ip-location@jldec90";
 const GEO_IP_URL = 'http://ip-api.com/json';
 //const REFRESH_INTERVAL = 30
 const APPLET_PATH = imports.ui.appletManager.appletMeta[UUID].path;
