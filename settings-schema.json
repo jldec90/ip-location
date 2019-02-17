@@ -1,0 +1,10 @@
+{
+    "refresh" : {
+        "type" : "scale",
+        "default" : 30,
+        "min" : 0,
+        "max" : 180,
+        "step" : 30,
+        "description" : "Refresh timeout (in seconds)"
+    }
+}

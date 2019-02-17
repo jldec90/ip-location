@@ -1,0 +1,7 @@
+{
+    "uuid": "ip-location@jldec",
+    "name": "IP Adress Location",
+    "description": "Get my Ip Adress",
+    "icon": "emblem-web",
+    "max-instances": "-1"
+}
